@@ -96,7 +96,6 @@ body {
 .nav-bar2 {
     /*  border: dotted 2px;*/
     position: relative;
-    /*float: right;*/
     left: 630px;
     top: 260px;
     height: 45px;
@@ -107,9 +106,6 @@ body {
 .nav-bar2 a {
     position: relative;
     float: left;
-    /*padding: 4px 5px;*/
-    /*border-right: solid 1px #e6e7ea;*/
-    margin-top: 6px;
 }
 
 .nav2-buttons {
@@ -122,18 +118,6 @@ body {
     float: left;
 }
 
-/*
-.nav-bar2 a:hover {
-    background-color: #e6e7ea;
-    color: black;
-}
-  
  
-.nav-bar2 a.active {
-    background-color: white;
-    color: black;
-    border-bottom: 3px solid #4b5b9e;
-}*/
-  
   
 
