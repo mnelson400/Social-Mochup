@@ -69,7 +69,6 @@ body {
     overflow: hidden;
 }
 
-
 .nav-bar a {
     position: relative;
     float: left;
@@ -88,7 +87,6 @@ body {
     color: black;
     border-bottom: 4px solid #4b5b9e;
 }
-
 
 .nav-bar2 {
     /*  border: dotted 2px;*/
@@ -122,7 +120,6 @@ body {
     background-color: #e9eaed;
     margin: auto;
     margin-top: 10px;
-
 } 
 
 .left-column {
@@ -149,7 +146,6 @@ body {
     position: relative;
     float: left;
     width: 328px;
-
 }
 
 .post-text1 h3 {
@@ -167,7 +163,6 @@ body {
     position: relative;
     float: right;
     width: 512px;
-
 }
 
 .post-text2 h3 {
