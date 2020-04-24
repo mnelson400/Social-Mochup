@@ -175,3 +175,21 @@ body {
     margin: auto;
     padding: 5px;
 }
+
+.symbol {
+    /* position: relative;
+    margin: auto; */
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+}
+
+.footer h3 {
+    color: #4b5b9e;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+}
